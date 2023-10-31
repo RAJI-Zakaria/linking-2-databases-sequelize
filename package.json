@@ -1,0 +1,19 @@
+{
+  "name": "linking-2-databases-sequelize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RAJI-Zakaria/linking-2-databases-sequelize.git"
+  },
+  "author": "RAJI-Zakaria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RAJI-Zakaria/linking-2-databases-sequelize/issues"
+  },
+  "homepage": "https://github.com/RAJI-Zakaria/linking-2-databases-sequelize#readme"
+}

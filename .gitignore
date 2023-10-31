@@ -1,0 +1,71 @@
+# Node.js
+node_modules/
+npm-debug.log
+
+# npm
+*.log
+
+# Yarn
+yarn-error.log
+yarn.lock
+
+# macOS
+.DS_Store
+
+# IDE files (e.g., Visual Studio Code)
+.vscode/
+
+# Environment variables (e.g., .env files)
+.env
+.env.local
+.env.*.local
+
+# Build output
+/build/
+/dist/
+/out/
+
+# Log files
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Directory for storing environment variables
+.config/
+
+# OS-specific files
+Thumbs.db
+ehthumbs.db
+
+# User-specific files
+npm-debug.log
+*.sublime-workspace
+
+# Editor-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Package-lock files
+package-lock.json
+
+# Yarn integrity file
+.yarn-integrity
+
+# Snapshots
+__snapshots__
+
+# Debugging logs
+logs/
+log.txt
+
+# Output of 'npm pack'
+*.tgz
+
+# Mac
+.svelte-kit/
